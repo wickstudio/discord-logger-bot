@@ -1,0 +1,13 @@
+{
+  "token": "your_bot_token",
+  "log-channels": {
+    "members": "channel_id",
+    "messages": "channel_id",
+    "channels": "channel_id"
+  },
+  "colors": {
+    "error": "#f22c2c",
+    "info": "#00c4a2",
+    "warning": "#ffda34"
+  }
+}
